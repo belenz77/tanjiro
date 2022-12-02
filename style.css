@@ -398,3 +398,7 @@ main{padding-top: 135px;}
 }
 .lead{ color:black; 
 background:  #fff;}
+label{
+      display: flex;
+      align-items: center;
+    padding-right: 7px;}
